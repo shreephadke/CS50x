@@ -1,0 +1,1 @@
+My CS50x Final Project was a web-based task manager application that utilizes the Flask Python and Bootstrap CSS Frameworks. It also utilizes Sessions in order to store your todo-list. You can ensure that your task list will be present even after you log out.

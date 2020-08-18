@@ -1,0 +1,10 @@
+*{
+    position:relative;
+    top: 0px;
+    padding: 0;
+    font-family: Helvetica;
+    font-size: 130%;
+    text-align: center;
+    background: linear-gradient(to right, #05a3ff, #05ffac);
+
+}
